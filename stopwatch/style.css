@@ -1,0 +1,21 @@
+body{
+    text-align: center;
+    font-family: Georgia, Times, serif;
+    font-size: large;
+    font-weight: bolder;
+}
+
+h1{
+    color: black;
+}
+
+#timer{
+    font-size: 3em;
+    margin: 20px;
+}
+
+button{
+    font-size: 1em;
+    padding: 10px 20px;
+    margin: 10px;
+}
